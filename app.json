@@ -1,9 +1,9 @@
 {
-  "name":"Legend-MD",
-  "description":"Best whatsapp bot created by Mr.Legend",
+  "name":"PANHWAR-MD",
+  "description":"Best whatsapp bot created by ANSAR-PANHWAR",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/8lzwqh.jpeg",
-  "repository":"https://github.com/FarhanAli690/Legend-MD",
+  "repository":"https://github.com/Panhwar110/Panhwar-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -47,7 +47,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Legend-MD",
+      "value":"AnSaR-PaNhWaR",
       "required":false
 
     } ,
@@ -86,7 +86,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Legend"
+    "value": "Ansar"
   },
     "NUMERO_OWNER":
   {
