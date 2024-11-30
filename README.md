@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/xY3NpMn/IMG-20241130-WA0061.jpg?style=for-the-badge&logo=github"></a>
 
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+<img src="https://i.ibb.co/xY3NpMn/IMG-20241130-WA0061.jpg" width="300" height="150">
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
