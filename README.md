@@ -92,29 +92,8 @@ The PANHWAR-MD is released.
 
 Enjoy the diverse features of the PANHWAR-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
-----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
--------
-<hr>
-
-<div align="center">
-<h3> PANHWAR-MD Developer Team </h2>
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
-| PANHWAR-MD👤              | ANSAR-PANHWAR👤              
-|--------------------|---------------------|
-[![Owner](https://i.imghippo.com/files/NKF1873jU.jpg)](https://wa.me/923251340633) | [![Vihanga](https://i.imghippo.com/files/zzy3146DKQ.jpg)](https://wa.me/923702587522) |
-</div>
-<hr>
-----------
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
--------
 *Thanks to:*
 ## Allah
