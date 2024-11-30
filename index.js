@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "PANHWAR-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ANSAR-PANHWAR¹¹⁰",
+  "logo": "https://i.ibb.co/W5grzHJ/pk.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://i.ibb.co/W5grzHJ/pk.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HII DEAR IM ONLINE.!!♻️"
+      "value": "HII DEAR IM ONLINE.!!♻️ MY NAME IS PROFSSOR ANSAR I AM BOT CREATER THNKS YOU SUPPORT GUYZ"
     },
     
     "PREFIX": {
