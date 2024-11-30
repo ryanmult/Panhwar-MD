@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +PANHWAR-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ANSAR+TECH;RELEASED+30.11.2024" alt="Typing SVG" /></a>
   </p>
 
-<img alt="PANHWAR-MD" width="700" height="300" src="https://ibb.co/1RkLy3Z">
+<img alt="PANHWAR-MD" width="700" height="300" src="https://i.postimg.cc/qBKVM4xN/IMG-20241130-WA0061.jpg">
 
   
   ---------
