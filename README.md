@@ -18,12 +18,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MR%20LEGEND%20MD%20&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20WALK-DROVE%20MR-LEGEND%20%20KING%20OF%20KINGS%20OWNER%20WALK%20DROVE%20AND%20MR%20LEGEND&image=https://i.imghippo.com/files/NKF1873jU.jpg?v=4&backgroundColor=%23ecf0f1&github=FarhanAli690&pattern=leaf&colorPattern=%23eaeaea"/>
-
-
-<br>
-
 ----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
