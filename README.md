@@ -1,4 +1,4 @@
-<h1 align="center">BELTAH-MD BOT</h1>
+<h1 align="center">PANHWAR-MD BOT</h1>
 <p align="center">  
 
 ***
