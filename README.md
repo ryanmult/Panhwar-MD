@@ -1,8 +1,6 @@
 # Panhwar-Md
 <p align="center">
-<a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/xY3NpMn/IMG-20241130-WA0061.jpg?style=for-the-badge&logo=github"></a>
-
-<img src="https://i.ibb.co/xY3NpMn/IMG-20241130-WA0061.jpg" width="600" height="300">
+<a href="https://github.com/Panhwar110"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
