@@ -91,10 +91,10 @@ let up = `*╭──────────────●●►*
 *https://whatsapp.com/channel/0029VasvGqI1noz4IvSnNY2Y*
 
 *╭⊱✫🇵🇰 PANHWAR-MD 🇵🇰✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
+*│✫➠ - 📂REPOSITORY NAME:* *PANHWAR-MD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
-*│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+*│✫➠ - 🛡️OWNER:* *ANSAR PANHWAR¹¹⁰*
+*│✫➠ - 🌐URL:* *https://github.com/Panhwar110/Panhwar-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
