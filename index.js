@@ -88,7 +88,7 @@ let up = `*╭──────────────●●►*
 
 > *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Panhwar-Mᴅ❁*
 
-*https://whatsapp.com/channel/0029VasvGqI1noz4IvSnNY2Y*
+*https://whatsapp.com/channel/0029Vay5OE7EFeXcqx9XWR32*
 
 *╭⊱✫🇵🇰 PANHWAR-MD 🇵🇰✫⊱╮*
 *│✫➠ - 📂REPOSITORY NAME:* *PANHWAR-MD*
